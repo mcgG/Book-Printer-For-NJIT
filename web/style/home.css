@@ -1,0 +1,33 @@
+#banner {
+    height: 60px;
+    wdith: 100%;
+    background-color: cornflowerblue;
+}
+
+#content {
+    width: 100%;
+    height: 100%;
+}
+
+.select {
+    float: left;
+    margin-left: 5px;
+    width: 200px;
+}
+
+#search-content {
+    width: 100%;
+    height: 60px;
+    background-color: #985f0d;
+}
+
+#search-btn {
+    width: 200px;
+}
+
+#context {
+    width: 950px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
